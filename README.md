@@ -18,4 +18,10 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 ### Exploratory Data Analysis - Retail
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
+## Task 6:
+### Prediction using Decision Tree Algorithm
+Create the Decision Tree classifier and visualize it graphically. 
+
+
+
 
